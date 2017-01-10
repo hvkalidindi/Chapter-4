@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Mathy()
+comment0.text=\r\n\ \ \ \ default\ constructor\ -\ stubed\ in\r\n
+comment1.params=x\ y
+comment1.target=int\ add(int,\ int)
+comment1.text=\r\n\ \ \ \ two\ int\ parameters\ and\ adds\ them\ @param\ 2\ int\ values\ @return\ int\ sum\ of\ values\r\n
+comment2.params=x\ y
+comment2.target=double\ add(double,\ double)
+numComments=3
